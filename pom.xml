@@ -134,7 +134,6 @@
 			<version>10.12.1.1</version>
 			<optional>false</optional>
 		</dependency>
-		
 	<!-- for testing -->
 		<dependency>
 			<groupId>org.mule.tests</groupId>
